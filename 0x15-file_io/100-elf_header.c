@@ -133,7 +133,7 @@ void print_data(char *ptr)
 		printf(", little endian\n");
 
 	if (data == 2)
-								printf(", big endian\n");
+		printf(", big endian\n");
 }
 /**
  * print_magic - prints magic info.
