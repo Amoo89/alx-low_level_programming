@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 0x18. C - Dynamic libraries
 
 ## Description
@@ -31,6 +30,3 @@ What you should learn from this project:
 
 ## Author
 * **Onifade Olanrewaju** - [Amoo89](https://github.com/Amoo89)
-=======
-0x18. C - Dynamic libraries
->>>>>>> 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
