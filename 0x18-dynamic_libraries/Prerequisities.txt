@@ -1,3 +1,0 @@
-Prerequisities
-
--install vs Code and the C/C++ extensions
